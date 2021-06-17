@@ -1,0 +1,15 @@
+/*
+ID: your_id_here
+TASK: test
+LANG: C++                 
+*/
+/* LANG can be C++11 or C++14 for those more recent releases */
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main() {
+    ofstream fout ("test.out");
+    ifstream fin ("test.in");
+}    
