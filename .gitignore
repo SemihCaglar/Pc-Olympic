@@ -73,6 +73,7 @@ tags
 
 ### Pc Olympic ###
 test/*
+!test/.gitkeep
 tmp/*
 **/.cph/*
 build/*
