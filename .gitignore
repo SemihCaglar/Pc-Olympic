@@ -79,3 +79,4 @@ tmp/*
 **/.cph/*
 build/*
 !build/.gitkeep
+pch/*
